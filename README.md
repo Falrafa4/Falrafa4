@@ -1,6 +1,6 @@
 ![Naufal](img/github-banner.png)
 
-# Hi There! I'm Naufal 👋  
+# Hi There! I'm Muhammad Naufal Rafa Al As'ad 👋  
 *— A student passionate about web development.*
 - 🔭 Currently studying at SMK Telkom Sidoarjo  
 - 🌱 I’m currently learning [Laravel Framework](https://laravel.com) and [TailwindCSS](https://tailwindcss.com)
