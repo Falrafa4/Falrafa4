@@ -2,7 +2,9 @@
 
 # Hi There! I'm Muhammad Naufal Rafa Al As'ad 👋  
 *— A student passionate about web development.*
-🔭 Currently studying at SMK Telkom Sidoarjo  <br>🌱 I’m currently learning [Next.js](https://nextjs.org/) and [Express.js](https://expressjs.com/)<br>🌍 Always open to collaboration, learning, and new opportunities.
+- 🔭 Currently studying at SMK Telkom Sidoarjo
+- 🌱 I’m currently learning [Next.js](https://nextjs.org/) and [Express.js](https://expressjs.com/)
+- 🌍 Always open to collaboration, learning, and new opportunities.
 
 ---
 
